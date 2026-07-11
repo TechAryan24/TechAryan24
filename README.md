@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450"/>
+  <img
+    src="https://iili.io/3vdmRx1.gif"
+    alt="Anime Coding GIF"
+    width="700"
+  />
 </p>
 
 <p align="center">
@@ -22,7 +26,10 @@
 
 ---
 
-# 👨‍💻 About Me
+<h2>
+  <img src="https://media.tenor.com/Nt6Zju-KjTsAAAAM/luffy-one-piece.gif" width="60" alt="Luffy" />
+  About Me
+</h2>
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
@@ -53,49 +60,53 @@
 
 ---
 
-# 🚀 Tech Stack
+🚀 Tech Stack
 
-### Languages
-
-<p>
+<table width="100%" cellspacing="0" cellpadding="10">
+<tr>
+<td width="50%" valign="top" align="center">
+🔤 Languages
+<br/>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,html,css" />
-</p>
 
-### Frontend
+<br/><br/>
 
-<p>
+🎨 Frontend
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux" />
-</p>
 
-### Backend
+<br/><br/>
 
-<p>
+⚙️ Backend
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,firebase" />
-</p>
 
-### Database
-
-<p>
+</td>
+<td width="50%" valign="top" align="center">
+🗄️ Database
+<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase" />
-</p>
 
-### AI / ML
+<br/><br/>
 
-<p>
+🤖 AI / ML
+<br/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6D28D9?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge"/>
+<br/><br/>
 
-</p>
-
-### Tools
-
-<p>
+🛠️ Tools
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,vscode" />
-</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -108,27 +119,11 @@
 | 💰 **Finora** | Personal Finance Management Platform |
 | 📚 **Readora** | Modern Full Stack Book Store Application |
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TechAryan24&theme=algolia&row=1&column=7"/>
-
-</p>
 
 ---
 
 # 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TechAryan24&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechAryan24&layout=compact&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 
@@ -187,9 +182,21 @@
 ---
 
 <p align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWVvMXNkdzY5YzlsbHprN3JtNWZ5YWpnd3Z4cWU2N2szZ3A3d3FobyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11sBLVxNs7v6WA/200_d.gif"
+    alt="Thank You Anime GIF"
+    width="260"
+  />
+</p>
 
-### ⭐ Thanks for visiting my profile!
+<h2 align="center">✨ Thanks for Visiting! ✨</h2>
 
-*"Code. Learn. Build. Repeat."* 🚀
+<p align="center">
+  <b>Thanks for stopping by my GitHub profile!</b> 😊<br>
+  Feel free to explore my repositories, leave a ⭐ if you find something useful,
+  or connect with me for collaboration.
+</p>
 
+<p align="center">
+  <i>Happy Coding! 🚀</i>
 </p>
