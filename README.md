@@ -117,7 +117,8 @@
 | 🌍 **Bihar Darshan** | Tourism & Cultural Platform with community-driven content |
 | 🤖 **LocalInsight AI** | AI-powered business location recommendation system |
 | 💰 **Finora** | Personal Finance Management Platform |
-| 📚 **Readora** | Modern Full Stack Book Store Application |
+| 📚 **VisionVoice AI** |  Intelligent image analysis platform that transforms visual data into audible and textual insights. |
+| 📚 **CodeMind AI** |  AI-powered RAG tool that enables natural language code search with contextual explanations and source references. |
 
 
 
